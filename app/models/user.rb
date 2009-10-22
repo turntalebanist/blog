@@ -1,4 +1,7 @@
 class User < ActiveRecord::Base
+  has_many :posts
+  
+  
   attr_accessor :pasword_confirmation
   attr_reader :password
   
