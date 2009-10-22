@@ -1,0 +1,11 @@
+h1. Rails Course Blog
+
+h2. Content
+
+A simple Rails blog with:
+
+* Posts
+* Comments
+* Users
+* Sessions
+* Authentication/Authorization
